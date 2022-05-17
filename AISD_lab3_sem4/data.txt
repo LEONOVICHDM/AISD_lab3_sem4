@@ -1,0 +1,5 @@
+Moscow;Samara;7000;9500
+Samara;Vladimir;1500;1000
+Moscow;Vladimir;12000;*
+Saint-Petersburg;Vladimir;2300;3000
+Saint-Petersburg;Moscow;3000;*
